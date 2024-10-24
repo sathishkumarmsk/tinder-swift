@@ -1,9 +1,4 @@
-//
-//  CardsViewModel.swift
-//  Tinder
-//
-//  Created by Sathish on 24/10/24.
-//
+
 
 import Foundation
 
